@@ -9,6 +9,7 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![JSHint](https://img.shields.io/badge/JSHint-F5DE19?style=for-the-badge&logo=jshint&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -25,23 +26,27 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![PEP8](https://img.shields.io/badge/PEP8--compliance-blue?style=for-the-badge)
 ![Accessibility](https://img.shields.io/badge/Accessibility-A11Y-blue?style=for-the-badge)
-
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🏆 Hackathon Achievement
 
 ![Hackathon 3rd Place](./image.png)
-*3rd Place - Code Institute Hackathon Pride*
+*3rd Place - Code Institute Hackathon*
 
 ## 🚀 Projects
 
 Here are some of the projects I'm currently working on or have contributed to:
 
+- **[CycleShop](https://github.com/trxdave/cycleshop)** - A Django-powered e-commerce platform for bicycles and accessories.
+- **[StyleSage](https://github.com/trxdave/stylesage)** - A modern web platform for fashion analytics.
 - You can find all my repositories [here](https://github.com/trxdave).
 
 ## ✨ GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trxdave&show_icons=true&theme=radical)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trxdave&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
@@ -53,7 +58,7 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 ## 📫 How to Reach Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-cotter-junior-software-developer)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-cotter-junior-software-developer)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidcotter071@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/TRXDAVE)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/david_cotter80/)
@@ -66,7 +71,7 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 - Improving my skills in **React.js** and **Node.js**
 - Experimenting with **Docker** and **Kubernetes** for DevOps
-- Learning AWS
+- Learning **AWS**
 
 ## 🌍 Visitors Count
 
@@ -74,6 +79,4 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 ---
 
-
 ⭐️ From [David Cotter](https://github.com/trxdave)
-
