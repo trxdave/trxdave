@@ -22,6 +22,10 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/Gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![PEP8](https://img.shields.io/badge/PEP8--compliance-blue?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/Accessibility-A11Y-blue?style=for-the-badge)
+
 
 
 ## 🏆 Hackathon Achievement
