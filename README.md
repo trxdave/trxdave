@@ -46,8 +46,8 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/david-cotter-junior-software-developer)
-- [Email](mailto:davidcotter071@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-cotter-junior-software-developer)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidcotter071@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/TRXDAVE)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/david_cotter80/)
 
@@ -57,7 +57,12 @@ Here are some of the projects I'm currently working on or have contributed to:
 - Experimenting with **Docker** and **Kubernetes** for DevOps
 - Learning AWS
 
+## 🌍 Visitors Count
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trxdave.trxdave)
+
 ---
+
 
 ⭐️ From [Your Name](https://github.com/trxdave)
 
