@@ -64,5 +64,5 @@ Here are some of the projects I'm currently working on or have contributed to:
 ---
 
 
-⭐️ From [Your Name](https://github.com/trxdave)
+⭐️ From [David Cotter](https://github.com/trxdave)
 
