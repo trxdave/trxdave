@@ -13,6 +13,8 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-800000?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F36?style=for-the-badge&logo=lucidchart&logoColor=white)
@@ -20,6 +22,7 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/Gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white)
+
 
 ## 🏆 Hackathon Achievement
 
