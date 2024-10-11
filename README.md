@@ -40,7 +40,6 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 
 Here are some of the projects I'm currently working on or have contributed to:
 
-- **[CycleShop](https://github.com/trxdave/cycleshop)** - A Django-powered e-commerce platform for bicycles and accessories.
 - **[StyleSage](https://github.com/trxdave/stylesage)** - A modern web platform for fashion analytics.
 - You can find all my repositories [here](https://github.com/trxdave).
 
