@@ -48,6 +48,9 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trxdave&show_icons=true&theme=radical)
 
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=trxdave&theme=merko&hide_border=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trxdave" alt="trxdave" /></a>
