@@ -33,8 +33,11 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 
 ## 🏆 Hackathon Achievement
 
+![Hackathon 2nd Place]()
+*2nd Place - Code Institute Elevate Hackathon 2024*
+
 ![Hackathon 3rd Place](./image.png)
-*3rd Place - Code Institute Hackathon*
+*3rd Place - Code Institute ProudCoders Hackathon 2024*
 
 ## 🚀 Projects
 
