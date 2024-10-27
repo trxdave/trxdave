@@ -82,6 +82,8 @@ Here are some of the projects I'm currently working on or have contributed to:
 - Experimenting with **Docker** and **Kubernetes** for DevOps
 - Learning **AWS**
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ## 🌍 Visitors Count
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trxdave.trxdave)
