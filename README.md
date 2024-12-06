@@ -31,6 +31,13 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## 🏆 GitHub Certification
+
+<div align="center">
+  <a hreaf="https://www.credly.com/badges/bb5688a8-c92a-4fcb-9645-85930f86315a/public_url"></a>
+  <p><em>GitHub Foundations Certificate</em></p>
+</div>
+
 ## 🏆 Hackathon Achievement
 
 <div align="center">
