@@ -34,7 +34,7 @@ I'm a passionate Software Developer with expertise in building full-stack web ap
 ## 🏆 GitHub Certification
 
 <div align="center">
-  <a hreaf="https://www.credly.com/badges/bb5688a8-c92a-4fcb-9645-85930f86315a/public_url"></a>
+  <img src="github-foundations.png" alt="github-certification" />
   <p><em>GitHub Foundations Certificate</em></p>
 </div>
 
