@@ -74,6 +74,7 @@ Here are some of the projects I'm currently working on or have contributed to:
 
 ## 📫 How to Reach Me
 
+- <a href="https://app.daily.dev/davidcotter"><img src="https://api.daily.dev/devcards/v2/sJ3Jaz6P2Ak34l7F9TctR.png?type=default&r=ibg" width="356" alt="David Cotter's Dev Card"/></a>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-cotter-junior-software-developer)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidcotter071@gmail.com)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/TRXDAVE)
