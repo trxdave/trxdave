@@ -48,7 +48,7 @@ I'm a passionate **Software Developer** with expertise in building **full-stack 
 
 ## 🚀 Projects
 
-- **[Chain Breakers](https://github.com/trxdave/chainbreaker1)** - Hackathon January 2025
+- **[Chain Breakers](https://github.com/trxdave/chain-breaker1)** - Hackathon January 2025
 - **[CycleShop](https://github.com/trxdave/cycleshop)** - An e-commerce platform for cycling enthusiasts.
 - Check out all my projects [here](https://github.com/trxdave).
 
