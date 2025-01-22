@@ -48,7 +48,7 @@ I'm a passionate **Software Developer** with expertise in building **full-stack 
 
 ## 🚀 Projects
 
-- **[StyleSage](https://github.com/trxdave/stylesage)** - A modern web platform for fashion analytics.
+- **[Chain Breakers](https://github.com/trxdave/chainbreaker1)** - Hackathon January 2025
 - **[CycleShop](https://github.com/trxdave/cycleshop)** - An e-commerce platform for cycling enthusiasts.
 - Check out all my projects [here](https://github.com/trxdave).
 
