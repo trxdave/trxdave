@@ -68,8 +68,7 @@ I'm a passionate **Software Developer** with expertise in building **full-stack 
 
 ## 🌱 What I'm Learning
 
-- Deepening skills in **React.js** and **Node.js**
-- Exploring **DevOps** with **Docker** and **Kubernetes**
+- Deepening skills in **React.js** **JAVA** and **VSCode**
 - Gaining expertise in **AWS**
 
 ---
