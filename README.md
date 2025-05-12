@@ -6,7 +6,7 @@ I'm a skilled **Software Developer** with a passion for building robust and user
 ---
 
 ## 🔥 Dynamic Profile Banner
-![Dynamic Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20David's%20GitHub!&fontSize=30)
+![Dynamic Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1C1C1C&height=100&section=header&text=Welcome%20to%20David's%20GitHub!&fontColor=FFFFFF&fontSize=30)
 
 ## 🔧 Technologies & Tools
 
