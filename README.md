@@ -77,7 +77,6 @@ I'm a skilled **Software Developer** with a passion for building robust and user
 
 - **[Chain Breakers](https://github.com/trxdave/chain-breaker1)** - An interactive application designed to raise awareness about human trafficking.
 - **[CycleShop](https://github.com/trxdave/cycleshop)** - E-commerce platform tailored for cycling enthusiasts, featuring product listings, user profiles, and Stripe integration.
-- **[Silence Speaks](https://github.com/trxdave/silence-speaks)** - An AI-powered web platform for supporting the deaf community.
 - Check out more projects on my [GitHub profile](https://github.com/trxdave).
 
 ---
