@@ -36,19 +36,19 @@ I'm a passionate **Software Developer** with expertise in building **full-stack 
 
 ### **GitHub Certification**
 <div align="center">
-  <img src="github-foundations1.png" alt="GitHub Certification" />
+  <img src="github-foundations1.png" alt="GitHub Certification" width="200" height="200" />
   <p><em>GitHub Foundations Certificate</em></p>
 </div>
 
 ### **Hackathon Achievements**
 <div align="center">
-  <img src="2nd-image.png" alt="Hackathon 2nd Place" />
+  <img src="2nd-image.png" alt="Hackathon 2nd Place" width="200" height="200" />
   <p><em>2nd Place - Code Institute's Code to Protect: National Slavery and Human Trafficking Prevention Month Hackathon, January 2025.</em></p>
 
-  <img src="2nd-image.png" alt="Hackathon 2nd Place" />
+  <img src="2nd-image.png" alt="Hackathon 2nd Place" width="200" height="200" />
   <p><em>2nd Place - Code Institute Elevate Hackathon 2024</em></p>
 
-  <img src="./image.png" alt="Hackathon 3rd Place" />
+  <img src="./image.png" alt="Hackathon 3rd Place" width="200" height="200" />
   <p><em>3rd Place - Code Institute ProudCoders Hackathon 2024</em></p>
 </div>
 
