@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** with expertise in building **full-stack 
 
 ### **AI for Product Management**
 <div align="center">
-  <img src="ai-for-product-management.png" alt="AI for Product Management" />
+  <img src="ai-for-product-management.png" alt="AI for Product Management" width="200" height="200" />
   <p><em>AI for Product Management</em></p>
 </div>
 
