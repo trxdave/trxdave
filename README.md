@@ -54,19 +54,19 @@ I'm a skilled **Software Developer** with a passion for building robust and user
 <div align="center">
   <!-- Code to Protect Hackathon -->
   <div style="margin: 10px;">
-    <img src="code-to-protect.png" alt="2nd Place - Code to Protect Hackathon" width="200" height="200" />
+    <img src="2nd-image.png" alt="2nd Place - Code to Protect Hackathon" width="200" height="200" />
     <p><em>🏅 2nd Place - Code Institute's Code to Protect: National Slavery and Human Trafficking Prevention Month Hackathon, January 2025.</em></p>
   </div>
 
   <!-- Elevate Hackathon -->
   <div style="margin: 10px;">
-    <img src="elevate-hackathon.png" alt="2nd Place - Elevate Hackathon" width="200" height="200" />
+    <img src="2nd-image.png" alt="2nd Place - Elevate Hackathon" width="200" height="200" />
     <p><em>🏅 2nd Place - Code Institute Elevate Hackathon 2024.</em></p>
   </div>
 
   <!-- ProudCoders Hackathon -->
   <div style="margin: 10px;">
-    <img src="proudcoders-hackathon.png" alt="3rd Place - ProudCoders Hackathon" width="200" height="200" />
+    <img src="./image.png" alt="3rd Place - ProudCoders Hackathon" width="200" height="200" />
     <p><em>🥉 3rd Place - Code Institute ProudCoders Hackathon 2024.</em></p>
   </div>
 </div>
