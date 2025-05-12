@@ -31,6 +31,19 @@ I'm a skilled **Software Developer** with a passion for building robust and user
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Ghost-738a94?style=for-the-badge&logo=ghost&logoColor=white" alt="Ghost" />
+  </div>
+</details>
+
+### **Tools & Platforms**
+<details>
+  <summary>Tools & Platforms</summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   </div>
 </details>
 
@@ -57,6 +70,12 @@ I'm a skilled **Software Developer** with a passion for building robust and user
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=trxdave&theme=darkhub" alt="GitHub Trophies" />
 </div>
+
+---
+
+## 🔄 Latest Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
