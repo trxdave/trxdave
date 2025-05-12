@@ -29,8 +29,10 @@ I'm a passionate **Software Developer** with expertise in building **full-stack 
 ## 🏆 Certifications & Achievements
 
 ### **AI for Product Management**
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fe78d06e-ebe7-4a8c-90b0-95aa5a383bd9" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align="center">
+  <img src="ai-for-product-management.png" alt="AI for Product Management" />
+  <p><em>AI for Product Management</em></p>
+</div>
 
 ### **GitHub Certification**
 <div align="center">
