@@ -5,6 +5,8 @@
 ### 💡 Passionate Full Stack Developer | Remote Work Enthusiast
 I'm a skilled **Software Developer** with a passion for building robust and user-friendly web applications. I strive to create efficient, scalable, and aesthetically pleasing solutions while continuously learning and working on exciting projects!
 
+![Snake animation](https://github.com/trxdave/trxdave/blob/output/snake.svg)
+
 ---
 
 ## 🔧 Technologies & Tools
