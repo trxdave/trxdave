@@ -40,14 +40,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  ![Snake animation](https://github.com/trxdave/trxdave/blob/output/github-contribution-grid-snake.svg)
-</div>
-
----
-
 ## 🏆 Certifications & Achievements
 
 ### 🌟 **Certifications**
