@@ -13,13 +13,21 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
+        run: echo "Generating Snake Animation"
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
+      - name: Confirm Generation
+        run: echo "Snake animation generated!"
+
       - name: Push to GitHub Pages
+        run: echo "Pushing to GitHub Pages"
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
+      - name: Complete
+        run: echo "Workflow Complete!"
